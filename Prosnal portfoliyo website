@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <h1 class="logo">John Doe</h1>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <img src="your-photo.jpg" alt="Profile Photo" class="profile-photo" />
+      <h2>Hi, I'm John Doe</h2>
+      <p>Web Developer specializing in modern, responsive front-end development.</p>
+      <p>Skilled in HTML, CSS, JavaScript, React, and Node.js.</p>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm a passionate developer with a background in computer science and several years of experience building web applications. I focus on crafting clean code and engaging user experiences.
+    </p>
+    <h3>Education</h3>
+    <ul>
+      <li>B.Sc. in Computer Science – Tech University (2018 - 2022)</li>
+    </ul>
+    <h3>Experience</h3>
+    <ul>
+      <li>Front-End Developer at WebWorks (2022 - Present)</li>
+      <li>Internship at CodeBase – Contributed to internal tools using React.js</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project-grid">
+      <div class="project-card">
+        <h3>Portfolio Website</h3>
+        <p>Built with HTML, CSS, and JavaScript</p>
+        <a href="#">View Project</a>
+      </div>
+      <div class="project-card">
+        <h3>Task Tracker</h3>
+        <p>A productivity app using React and Firebase</p>
+        <a href="#">View Project</a>
+      </div>
+      <!-- Add more projects here -->
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: john.doe@example.com</p>
+    <p>LinkedIn: <a href="#">linkedin.com/in/johndoe</a></p>
+    <p>GitHub: <a href="#">github.com/johndoe</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 John Doe. All rights reserved.</p>
+  </footer>
+</body>
+</html>
