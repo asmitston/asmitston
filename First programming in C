@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    printf("Hello I am Asmit Kumar!\n");
+    printf("I am pursuing BCA Course at Amity University.\n");
+    printf("All the best for my journey!\n");
+    return 0;
+}
