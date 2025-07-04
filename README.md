@@ -8,6 +8,14 @@
 
 Welcome to my github journey, I loves learning new technologies and solving real-world problems through innovative solutions.
 
+👨‍💻 *IT | Full Stack Developer*.  
+💡 Continuously learning & growing in programming Language.  
+🌐 Building robust web apps with both front-end & back-end skills . 
+💻 Languages: C, Java, JavaScript.  
+⚡ Passionate about technology, collaboration, and innovation.
+🚀 Always ready for new challenges & open-source contributions.
+
+
 ### 🛠 My Expertise:
 - Programming in *C, *Java, *JavaScript, *Python, *HTML, *CSS...
 - Writing clean, efficient, and maintainable code..
