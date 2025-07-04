@@ -2,6 +2,8 @@
 
 👋 Hello, I am Asmit Kumar and I am an IT Candidate!!!
 
+![Rank](https://github.com/user-attachments/assets/3d16fccd-0423-4814-995a-73ff5328e7fb)
+
 Welcome to my github journey, I loves learning new technologies and solving real-world problems through innovative solutions.
 
 ### 🛠 My Expertise:
