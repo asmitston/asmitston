@@ -1,4 +1,6 @@
-## Hi CODER!!!👋
+## HARE KRISHNA!!!👋
+
+![WhatsApp Image 2025-07-04 at 21 26 51_f1c3265b](https://github.com/user-attachments/assets/945ff3ed-a64d-45fa-bd79-a22f63d1e54e)
 
 👋 Hello, I am Asmit Kumar and I am an IT Candidate!!!
 
