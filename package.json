@@ -1,0 +1,15 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "description": "Sample Express 5 app for Jenkins CI/CD demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "build": "echo \"no build step\"",
+    "lint": "echo \"no linter configured\"",
+    "test": "echo \"No tests defined yet, but the test stage passed!\" && exit 0"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
